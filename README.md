@@ -1,18 +1,50 @@
-<h1 align="center">Hi 👋, I'm Nikhil Bhanderi</h1>
-<h3 align="center">Software Engineering Student | Committed to Growth & Learning</h3>
+<!-- Header Section -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6f3c&height=150&section=header&text=Nikhil%20Bhanderi&fontSize=40&fontColor=ffffff&fontAlignY=35" />
+  <h3>Software Engineering Student | Committed to Growth & Learning</h3>
+</div>
 
-- 🌱 I’m currently learning **Python**
+---
 
-- 📫 How to reach me **nikhilbhanderi4410@gmail.com**
+### 👨‍💻 About Me
+- 🌱 Currently learning **Wordpress Development**  
+- 📫 Email: **nikhilbhanderi4410@gmail.com**  
+- 💡 I enjoy solving problems and building creative solutions  
+- 🎯 Goal: Become a well-rounded software developer
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nikpatel4465" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikpatel4465" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/nikhil-bhanderi-b151a5299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nikhil-bhanderi-b151a5299" height="30" width="40" /></a>
-<a href="https://medium.com/@nikhilbhanderi4410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nikhilbhanderi4410" height="30" width="40" /></a>
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://twitter.com/nikpatel4465"><img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/nikhil-bhanderi-b151a5299"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://medium.com/@nikhilbhanderi4410"><img src="https://img.icons8.com/color/48/medium-monogram.png" alt="Medium"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilbhanderi91&show_icons=true&locale=en&layout=compact" alt="nikhilbhanderi91" /></p>
+### 🛠 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,mysql,arduino&theme=light" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilbhanderi91&show_icons=true&theme=orange&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilbhanderi91&theme=orange&hide_border=true" width="48%"/>
+</p>
+
+---
+
+### 📌 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilbhanderi91&layout=compact&theme=orange&hide_border=true" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6f3c&height=100&section=footer"/>
+</div>
