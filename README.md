@@ -41,13 +41,6 @@
 
 ---
 
-# 🏆 Achievements & Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhilbhanderi91&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" />
-</p>
-
----
-
 # 🎨 Languages I Use  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilbhanderi91&layout=compact&theme=tokyonight&hide_border=true&title_color=4FC3F7&text_color=E0E0E0&card_width=450" />
