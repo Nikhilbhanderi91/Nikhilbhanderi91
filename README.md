@@ -1,68 +1,128 @@
-<!-- Header -->
+<!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=2,20,40,60&text=Nikhil%20Bhanderi&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20|%20Innovator%20|%20Problem%20Solver&descAlignY=65&descAlign=50"/>
-</div>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=2800&pause=800&color=00F0FF&center=true&vCenter=true&width=820&lines=Hey%2C+I'm+Nikhil+Bhanderi!;Software+Engineer+%7C+Flutter+Developer;Full+Stack+Explorer+%7C+Tech+Innovator;I+Build+Clean+Powerful+Digital+Experiences" />
 
-# 👨‍💻 About Me  
-💡 A **Software Engineering Student** passionate about **Full-Stack Web**, **Mobile Development**, and **AI-powered apps**.  
-⚡ I love solving problems with **creative solutions** and designing **impactful applications**.  
-
-- 📖 Learning: **WordPress (Custom Themes & Plugins)**  
-- 🎯 Interests: **Laravel APIs**, **Flutter Apps**, **AI Integrations**  
-- 📬 Email: **`nikhilbhanderi4410@gmail.com`**
-
----
-
-# 🌐 Connect with Me  
-<p align="center">
-  <a href="https://twitter.com/nikpatel4465"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/nikhil-bhanderi-b151a5299"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://medium.com/@nikhilbhanderi4410"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-</p>
-
----
-
-# 🛠️ Tech Stack  
-<div align="center" style="padding: 18px; background: rgba(255,255,255,0.05); border-radius: 18px; box-shadow: 0 8px 25px rgba(0,0,0,0.25); backdrop-filter: blur(12px);">
-  
-  ![Skills](https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js,php,mysql,flutter,laravel,wordpress,arduino,git,github,react&perline=8)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=2,20,40,60&section=header"/>
 
 </div>
 
----
 
-# 📊 GitHub Stats & Insights  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilbhanderi91&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=4FC3F7&text_color=E0E0E0&icon_color=FFD700" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=nikhilbhanderi91&theme=tokyonight&hide_border=true&ring=4FC3F7&fire=FFD700&currStreakLabel=FFD700" width="48%"/>
-</p>
 
----
-
-# 🎨 Languages I Use  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilbhanderi91&layout=compact&theme=tokyonight&hide_border=true&title_color=4FC3F7&text_color=E0E0E0&card_width=450" />
-</p>
-
----
-
-# 📈 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilbhanderi91&theme=tokyo-night&hide_border=true&area=true&line=4FC3F7&point=FFD700" width="96%" />
-</p>
-
----
-
-# 📚 Learning Journey  
-- 🌍 **WordPress** → Theme & Plugin Customization  
-- ⚡ **Laravel** → REST APIs, Authentication  
-- 📱 **Flutter** → Smooth Animations & State Management  
-
----
-
-<!-- Footer -->
+<!-- ABOUT -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=2,20,40,60&section=footer"/>
+
+### 🚀 Turning ideas into reality with elegant code & futuristic UI designs  
+
+💡 Passionate about crafting **impactful applications** with real-world value  
+⚙️ Strong focus on **Flutter • Laravel • Web Apps • AI Tools • WordPress Customization**  
+🔥 Driven by innovation • Creativity • Performance
+
+</div>
+
+
+
+---
+
+## 🌟 Highlights
+<div align="center">
+
+| 🚀 Passion | 📱 Expertise | 🎯 Goal |
+|----------|--------------|--------|
+| Creative Engineering | Flutter • Laravel • APIs • Web Systems | Build Powerful Digital Solutions |
+
+</div>
+
+
+
+---
+
+## 🛠️ Tech Stack
+<div align="center">
+
+### 💻 Core Skills
+![Skills](https://skillicons.dev/icons?i=flutter,java,python,cpp,php,laravel,wordpress,react,js,html,css)
+
+### ⚙️ Tools & Platforms
+![Tools](https://skillicons.dev/icons?i=firebase,mysql,git,github,arduino,vscode,idea,figma,postman)
+
+</div>
+
+
+
+---
+
+## 🌐 Let's Connect
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-bhanderi-b151a5299)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nikpatel4465)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nikhilbhanderi4410)
+[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilbhanderi4410@gmail.com)
+
+</div>
+
+
+
+---
+
+## 📊 GitHub Power Stats
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nikhilbhanderi91&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%">
+<img src="https://streak-stats.demolab.com?user=nikhilbhanderi91&theme=tokyonight&hide_border=true" width="48%">
+
+</div>
+
+
+
+---
+
+## 🎨 Languages I Use
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilbhanderi91&layout=compact&theme=tokyonight&hide_border=true&card_width=450"/>
+
+</div>
+
+
+
+---
+
+## 🧠 Development Journey
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilbhanderi91&theme=react-dark&hide_border=true&area=true&line=4FC3F7&point=FFD700" width="96%">
+
+</div>
+
+
+
+---
+
+## 🏆 Achievements & Trophies
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nikhilbhanderi91&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+
+
+---
+
+## 🚀 Currently Exploring
+- 🎯 Advanced Flutter Animations & UI Systems  
+- ⚡ Laravel Secure REST APIs  
+- 🛠️ WordPress Custom Theme + Plugin Development  
+- 🤖 AI Powered Efficient Solutions  
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1200&color=FFD700&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Building+Tomorrow's+Technology+Today!;%F0%9F%94%A5+Code.+Create.+Innovate.+Repeat." />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=2,20,40,60&section=footer"/>
+
 </div>
