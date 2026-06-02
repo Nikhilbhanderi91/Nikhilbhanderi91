@@ -108,11 +108,15 @@ Current Focus:
 
 ---
 
-# 📈 Contribution Activity
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhilbhanderi91&theme=tokyo-night&hide_border=true&area=true"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nikhilbhanderi91/Nikhilbhanderi91/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nikhilbhanderi91/Nikhilbhanderi91/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nikhilbhanderi91/Nikhilbhanderi91/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
